@@ -8,3 +8,8 @@
 * XiangQi
 * Baduk
 * Arimaa
+
+
+#Born in
+
+*Galicia
